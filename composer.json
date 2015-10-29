@@ -1,0 +1,17 @@
+{
+  "name": "drupal/geofield",
+  "type": "drupal-module",
+  "description": "Stores geographic and location data (points, lines, and polygons).",
+  "homepage": "https://www.drupal.org/project/geofield",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "See contributors",
+      "homepage": "https://www.drupal.org/node/1087170/committers",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/geofield"
+  }
+}
